@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **DisplayMe**
 
-- 🌱 I’m currently learning **DRF,REACT**
+- 🌱 I’m currently learning **REACT**
 
 - 👨‍💻 All of my projects are available at [https://github.com/adityash97](https://github.com/adityash97)
 
