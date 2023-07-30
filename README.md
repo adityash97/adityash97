@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/adityash97" target="blank"><img src="https://img.shields.io/twitter/follow/adityash97?logo=twitter&style=for-the-badge" alt="adityash97" /></a> </p>
 
-- 🔭 I’m currently working on **Personal Website**
+- 🔭 I’m currently working on **Personal Project**
 
-- 🌱 I’m currently learning **REACT**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/adityash97](https://github.com/adityash97)
 
