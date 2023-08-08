@@ -16,6 +16,8 @@
 
 - 📫 How to reach me **adityash212@gmail.com**
 
+- 📕 Read my blogs at **https://medium.com/@adityash97** 
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
