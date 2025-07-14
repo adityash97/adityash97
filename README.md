@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/adityash97](https://github.com/adityash97)
 
-- 💬 Ask me about **Python,Django,Javascript,Vue3**
+- 💬 Ask me about **Python,Django,ORM,Javascript,Quasar,Vue3, Next Js, LangChain,LangGraph,SQL**
 
 - 📫 How to reach me **adityash212@gmail.com**
 
